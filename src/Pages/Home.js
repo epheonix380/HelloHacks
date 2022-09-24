@@ -229,4 +229,5 @@ const Paragraph = styled.div`
   font-size: 48px;
   font-family: Lato;
   margin: 0px 0px 61px 0px;
+  font-style: italic;
 `;
