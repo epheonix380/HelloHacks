@@ -220,6 +220,7 @@ const GetStartedButton = styled.div`
 const Image1 = styled.img`
   width: 399px;
   height: 566px;
+  margin-top: -240px;
 `;
 const Paragraph = styled.div`
   width: 535px;
