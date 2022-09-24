@@ -63,7 +63,7 @@ const CardsRootRoot = styled.div`
   flex-direction: column;
   justify-content: flex-start;
   background-color: #dae7fa;
-  padding: 26px 0px;
+  padding-bottom: 100px;
   width:100%;
 `;
 const TopBar = styled.div`
